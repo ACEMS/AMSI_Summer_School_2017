@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Preparing Data for Machine Learning\"\nauthor: \"Miles McBain\"\ndate: \"`r format(Sys.Date())`\"\noutput:\n  html_document:\n    keep_md: TRUE\n---\n\n# Prequisites\n\n\n# Introduction\nThis practical will walk you through preparing data for machine learning methods. Two key concepts are introduced: The first is 'Tidy Data'.\nThis is a standard shape for a dataset to be used in any kind of analysis, be it modelling or visualisation.\n\nThe second key concept is scaling and centering data. Machine learning methods try to determine weights to apply to columns of the data that minimise the loss function.\nIf those columns are on different scales the optimisation can overfit certain features of the data and arrive at a local optimum with unexpectedly poor performance.\n\n## Dataset 1: Facial Images\nLater in this course we will consider the problem of detecting facial keypoints in images. This task is common in facial recognition systems such as Apple's controversial [FaceID](https://www.wired.com/story/iphone-x-faceid-security/) security system and [Animoji](https://www.theverge.com/2017/9/12/16290210/new-iphone-emoji-animated-animoji-apple-ios-11-update) in the iPhone X. \n\nWe will inspect a dataset created for the purpose of training a machine to recognise facial features. You will take a selfie and format it such that it can be a test case for a facial feature classifier trained on this dataset.\n\n### Inspecting the Data\nThe dataset comes from this [Facial Keypoints Detection Kaggle Competition](https://www.kaggle.com/c/facial-keypoints-detection/data)\n\n\n### Load data\n```{r}\n\n```\n\n## Dataset 2: Traffic Telematics. \n\n",
+    "created" : 1507273316869.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1617923119",
+    "id" : "7B3730F8",
+    "lastKnownWriteTime" : 1507273344,
+    "last_content_update" : 1507273344830,
+    "path" : "~/repos/ABS_ML1/ABS_ML1.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

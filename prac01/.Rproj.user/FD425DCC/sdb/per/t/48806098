@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(googledrive)\nlibrary(mmmisc)\n\n# Get Freeway data\nmmmisc::drive_download_dir(as_id(\"https://drive.google.com/open?id=0B7688WPR38x2QnhUMUhmTGNoN0E\"),\n                           dl_path = \"./data\")\n",
+    "created" : 1507273355627.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2120570005",
+    "id" : "48806098",
+    "lastKnownWriteTime" : 1507532272,
+    "last_content_update" : 1507532273064,
+    "path" : "~/repos/ABS_ML1/fetch_data.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

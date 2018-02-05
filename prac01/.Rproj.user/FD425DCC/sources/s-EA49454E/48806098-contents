@@ -1,0 +1,5 @@
+library(googledrive)
+
+# Get Freeway data
+drive_download_dir(as_id("https://drive.google.com/open?id=0B7688WPR38x2Sm5BZW9KQ1FrUkk"),
+                           dl_path = "./data")
