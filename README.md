@@ -1,5 +1,5 @@
 # Modelling and Analysis of Big Data
-Course Materials on Modelling and Analysis of Big Data delivered in Janurary 2017 for the AMSI Summer School.
+Course Materials on Modelling and Analysis of Big Data delivered in Janurary 2017 for the AMSI Summer School. These materials cover the two week of section of the course given by Kerrie Mengersen and Miles McBain.
 
 ## Lectures
 
